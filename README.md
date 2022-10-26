@@ -18,3 +18,5 @@ Below are the some summary statistics of June and December temperatures in Oahu 
 Based on the data, I can conclude that Oahu, Hawaii is a great place to open shop for surfboards and ice-cream. Temperatures are mild and warm year round with averages above 70 degrees during both summer and winter months - both during holiday/vacation seasons, where there's an influx of tourists.
 
 2 more queries that we can check is the precipitation or rain levels for both of these 2 months, because rain would affect the amount of tourists/people on the beach, let alone surfing those waves.
+
+![June Rain](June_Rain.PNG) ![December Rain](Dec_Rain.PNG)
